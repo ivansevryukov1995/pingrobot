@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/GOLANG-NINJA/pingrobot/workerpool"
+	"github.com/ivansevryukov1995/pingrobot/workerpool"
 )
 
 const (
